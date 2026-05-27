@@ -1,4 +1,6 @@
-# NetMon — Monitor de Conexiones de Red en Tiempo Real
+# NetMon — Monitor de Conexiones de Red en Tiempo Real con una bonita interface
+
+<center><img src="preview_netmon.png" width="800" height="500"></center>
 
 Aplicación de escritorio con ImGui que muestra todas las conexiones TCP/UDP activas
 del sistema: entrantes, salientes y en escucha, con actualización automática.
