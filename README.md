@@ -33,7 +33,7 @@ sudo dnf install gcc-c++ SDL2-devel mesa-libGL-devel glew-devel git
 ## Compilar y ejecutar
 
 ```bash
-# Clonar ImGui
+# Clonar ImGui (Dentro del directorio del proyecto)
 git clone --depth=1 https://github.com/ocornut/imgui.git
 
 # Compilar
